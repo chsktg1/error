@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.teamMatches {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.actLogo {
+  width: 100%;
+}
+.basic-details {
+  margin-top: 15px;
+}
+
+.compLogo {
+  width: 150px;
+  align-self: center;
+}
+.LatestMatchContainer {
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+  justify-content: space-between;
+  background-color: #1e293b;
+  border-radius: 10px;
+  color: white;
+}

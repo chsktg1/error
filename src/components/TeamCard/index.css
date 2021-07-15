@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.teamLogo {
+  width: 100px;
+  margin-right: 10px;
+}
+.teamContainer {
+  color: white;
+  width: 40%;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid white;
+  background-color: #ffffff33;
+  border-radius: 8px;
+}
+.inner {
+  display: flex;
+  color: white;
+}
+h1 {
+  text-decoration: none;
+}

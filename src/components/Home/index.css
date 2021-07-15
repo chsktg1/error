@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.total-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+  height: 100vh;
+  padding: 10px;
+}
+.top-cont {
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  margin: 10px;
+}
+.abd {
+  height: 42px;
+  margin-top: 0;
+}
+.text {
+  margin-top: 0;
+  margin-left: 8px;
+}
+.teamsHolder {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: wrap;
+}
